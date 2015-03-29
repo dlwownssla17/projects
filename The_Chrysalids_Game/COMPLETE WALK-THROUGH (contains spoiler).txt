@@ -1,0 +1,177 @@
+*** This is the complete walk-through. If you wish to play the game without additional help, you are advised to resist yourself from the temptation to read this documentation. ***
+
+
+
+Dear Player,
+
+The following provides a complete walk-through of the game "The Chrysalids" that will lead you to not only beat the game, but also unlock all the available achievements. Consulting this walk-through along with the "adventure-game-plan" file will ensure that you reach the goal in no time. Keep in mind that this walk-through lists only the necessary moves you have to make.
+
+WALK-THROUGH----------------------------------------------------------
+
+NOTE: If you want to minimize your play time, I advise you to refer to "(3) Let's unlock all the achievements!" while you follow the steps in "(1) Want to beat the game? Follow these steps!".
+
+(1) Want to beat the game? Follow these steps!
+
+* You will notice that you will not encounter a GAME OVER message if your death is followed by a transition from one "world" to the next. These deaths are in fact your way to advance forward through the plot of the game.
+
+Choose Name:
+Any name except for the following: Joel, Joel Unzain, Spencer, Spencer Lee, Shady, Shady Gutzmann, Narrator X, JJ
+
+[WORLD 0]
+- (3:00PM in Class)							go to hallway
+---> DEATH IN WORLD 0
+
+[WORLD 1]
+- (3:00PM in Class)							stay in class
+- (8:00PM in Class)							go to hallway
+- (8:00PM in Hallway)						go to outside
+- (8:00PM in Outside)						go to street
+- (8:00PM in Street)						(any of the following) go to fresh grocer, go to garbage bin, go to pottruck
+---> DEATH IN WORLD 1
+
+[WORLD 2]
+- (2:00PM in Class)							go to hallway
+- (3:00PM in Class)							stay in class
+- (8:00PM in Class)							stay in class
+- (11:50PM in Class)						hide under desk
+---> DEATH IN WORLD 2
+
+[WORLD 3]
+- (2:00PM in Class)							leave class without asking
+- (2:00PM in Hallway)						go to bathroom
+- (2:00PM in Bathroom)					look poster
+- (2:00PM in Bathroom)					go to hallway
+- (2:00PM in Hallway)						go to outside
+- (2:00PM in Outside)						go to palestra
+- (3:00PM in Palestra)					look ring
+- (3:00PM in Palestra)					use ring
+- (3:00PM in Palestra)					(any of the following) go to outside, sing
+---> DEATH IN WORLD 3
+
+[WORLD 4]
+- (2:00PM in Class)							(any of the following) go to hallway, stay in class
+- (3:00PM in Class)							stay in class
+- (8:00PM in Class)							stay in class
+- (11:50PM in Class)						hide under desk
+- (11:55PM in Class)						turn light on
+- (11:55PM in Class)						fight with spencer
+- (11:55PM in Class)						(any of the following) duck and roll, jump and kick, grab and flip
+- (11:55PM in Class)						(any of the following) hook punch, throw chair, run away
+---> DEATH IN WORLD 4
+
+[WORLD 5]
+- (2:00PM in Class)							(any of the following) go to hallway, stay in class
+- (3:00PM in Class)							talk with spencer
+- (3:00PM in Class)							stay in class
+- (8:00PM in Class)							stay in class
+- (11:50PM in Class)						hide under desk
+- (11:55PM in Class)						turn light on
+- (11:55PM in Class)						talk with spencer
+- (11:55PM in Class)						(any of the following) duck, jump, sprint, surrender, shout, sing, spencer
+---> DEATH IN WORLD 5
+
+[WORLD 6]
+- (2:00PM in Class)							(any of the following) go to hallway, stay in class
+- (3:00PM in Class)							talk with spencer
+- (3:00PM in Class)							ask spencer about shady
+- (3:00PM in Outside)						go to street
+- (3:00PM in Street)						go to garbage bin
+- (3:00PM in Garbage Bin)				look key
+- (3:00PM in Garbage Bin)				go to street
+- (3:00PM in Street)						go to outside
+- (3:00PM in Outside)						go to shady's house
+- (3:00PM in Shady's House)			look door
+- (3:00PM in Shady's House)			use key
+- (3:00PM in Shady's House)			open door
+- (6:00PM in Shady's House)			use cash (5 times; must be done under one minute)
+---> DEATH IN WORLD 6
+
+[WORLD 7]
+- (2:00PM in Class)							(any of the following) go to hallway, stay in class
+- (3:00PM in Class)							talk with joel
+- (3:00PM in Class)							go to hallway
+- (3:00PM in Hallway)						go to bathroom
+- (3:00PM in Bathroom)					take care of business
+- (3:00PM in Bathroom)					use notebook
+---> DEATH IN WORLD 7
+
+[WORLD 8]
+- (2:00PM in Class)							use butterfly
+---> GAME COMPLETE
+
+(2) Feeling special? Follow these steps!
+
+* Once you beat the game following the steps above, you are able to unlock the special mode. Make sure you type "restart" after Narrator X congratulates you for beating the game.
+
+Choose Name:
+JJ
+
+<<IMPORTANT: Do NOT panic from all of the resulting outputs. They are simply meant to troll you. Just continue pressing ENTER. For the first count-down ("SYSTEM SHUTDOWN IN X SECONDS."), wait until you see "PROCEED...". Then, pressing ENTER several times will lead you to the next count-down. For the second count-down ("REMOVE OPERATING SYSTEM IN X SECONDS."), wait until you see "..." and "PRESS [ENTER] TO COMPLETE REMOVAL.". Then, pressing ENTER again several times will lead you to "SHREK IS LOVE." and "SHREK IS LIFE.". After pressing ENTER a couple more time, you will be led to the Special Mode.>>
+
+[SPECIAL MODE]
+- (Hallway)											go to bathroom
+- (Bathroom)										go to hallway
+- (Hallway)											go to outside
+- (Outside)											go to street
+- (Street)											go to pottruck
+- (Pottruck)										go to street
+- (Street)											go to outside
+- (Outside)											go to palestra
+- (Palestra)										use ???
+---> SPECIAL MODE COMPLETE
+
+(3) Let's unlock all the achievements!
+
+* Unlocking each achievement shows you a one-time message that says "[[Unlocked "(achievement name)"!]]". Typing the "achievements" command in action mode shows you all the achievements you have unlocked so far. This is explicitly told once in a notice when you unlock the "Sky & Life" achievement. In that notice, you will also be told that there is a total of 10 achievements to unlock. However, this is a lie. In fact, there is a total of 11 achievements, the hidden last one being the "Beat the Special" achievement. Once you unlock all the achievements, you get to receive a one-time grand congratulations from Narrator X, along with a sincere appreciation from me for spending your precious time on this game.
+
+Achievements:
+
+1. The Cake :
+	Typed "asdfg" followed by "ThE cAkE iS a LiE" while in front of Shady Gutzmann's house, and then looked at Cheesecake in Fresh Grocer.
+
+2. Meet the Girls :
+	Looked at Girls in all four possible situations: in Class at 2:00PM, in Class at 3:00PM, in Pottruck before enabling Shady Gutzmann's house, in Pottruck after enabling Shady Gutzmann's house.
+
+3. There's a Mouse :
+	Looked at Mouse in Garbage Bin. (This is done by first looking at garbage bag, and then typing "yes" both times to poke the garbage bag and let the mouse out of it.)
+
+4. The Stripper @ Night :
+	Looked at Stripper at 8:00PM in Street.
+
+5. Troll Paper @ Chipotle :
+	Looked at Paper in Chipotle 5 times. (You must first unlock Chipotle by looking at burrito in Bathroom.)
+
+6. Happy Hobo :
+	Looked at Homeless Man in Outside, and then gave him $30. (While in Outside, type "look hobo", and then type "use cash" three times.)
+
+7. Sky & Life :
+	Looked at Blue Sky in Outside.
+
+8. Retry 7 :
+	Retried 7 times. (This can most quickly be done by typing "go to hallway" at the start of the game 7 times after progressing out of World 0.)
+
+9. All Character Names:
+	Tried choosing all in-game named characters' names for main character's name.
+	(Type in these when choosing the character's name:
+	- Joel or Joel Unzain
+	- Spencer of Spencer Lee
+	- Shady or Shady Gutzmann
+	- Narrator X)
+
+10. Beat the Game:
+	Beat the game. (As walked through in "(1) What to beat the game? Follow these steps!")
+
+11. Beat the Special:
+	Beat the special mode of the game. (As walked through in "(2) Feelin special? Unlock these steps!")
+
+----------------------------------------------------------------------
+
+
+
+==================================================
+
+This game, "The Chrysalids", is written completely in Bash, and it is an original work by Jae Joon (JJ) Lee, an undergraduate in the University of Pennsylvania (sophomore in academic year 2014-2015). It is open to improvement or modification at my discretion. Currently, the game is in Version 1.
+
+If you have any questions, inquiries, or even requests, feel free to contact me at jjlee@seas.upenn.edu.
+
+Thank you.
